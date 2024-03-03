@@ -1,0 +1,2 @@
+cloud-tqdm 0.0.2
+pip install cloud-tqdm
